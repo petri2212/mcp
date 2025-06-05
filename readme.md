@@ -1,0 +1,1 @@
+# That repo deserves to implement a server with the MCP protocol (hopefully)
