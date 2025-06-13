@@ -14,3 +14,4 @@ const server = new McpServer({
     tools: {},
   },
 });
+module.exports = server;
