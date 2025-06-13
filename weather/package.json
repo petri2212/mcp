@@ -15,10 +15,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.1",
-    "zod": "^3.25.51"
+    "@modelcontextprotocol/sdk": "^1.12.2",
+    "zod": "^3.25.64"
   },
-  "files": ["build"],
+  "files": [
+    "build"
+  ],
   "devDependencies": {
     "@types/node": "^22.15.29",
     "typescript": "^5.8.3"
